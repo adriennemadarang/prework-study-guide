@@ -3,7 +3,7 @@
 ## Description
 
 
-The Prework Study Guide webpage was created so that bootcamp students like myself are able to keep track and organize notes while learning how to code. It contains notes on HTML, CSS, Git and JavaScript.
+The Prework Study Guide webpage was created so that bootcamp students like myself are able to keep track and organize notes on different topics while learning how to code. It contains notes on HTML, CSS, Git and JavaScript.
 
 
 
